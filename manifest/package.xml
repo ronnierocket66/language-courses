@@ -12,7 +12,7 @@
         <members>*</members>
         <name>ApexPage</name>
     </types>
-    <types>
+    <types>p
         <members>*</members>
         <name>ApexTestSuite</name>
     </types>
